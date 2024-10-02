@@ -1,6 +1,17 @@
-Functions
-def Statements with Parameters
-Define, Call, Pass, Argument, Parameter
+I.	Functions
+*	A function is like a miniprogram within a program.
+
+	A.	def Statements with Parameters
+	*	When you call the print() or len() function, you pass them values, called 
+		arguments, by typing them between the parentheses. 
+
+	B.	Define, Call, Pass, Argument, Parameter
+
+
+
+
+
+
 Return Values and return Statements
 The None Value
 Keyword Arguments and the print() Function
